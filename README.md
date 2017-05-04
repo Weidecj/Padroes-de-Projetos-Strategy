@@ -1,2 +1,2 @@
-# Padroes-de-Projetos-Strategy
+# Padroes de Projetos Strategy
 Atividades utilizando Strategy
